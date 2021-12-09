@@ -1514,8 +1514,8 @@
 <a name="微信"></a>  <a name="公众号"></a>
 
 <p align="left">
-    <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/qrcode_for_gh_1537917051d0_258.nd3fymuhyts.jpeg" width=""/>
+    <a href="" target="_blank">
+        <img src="" width=""/>
     </a>
 </p>
 
